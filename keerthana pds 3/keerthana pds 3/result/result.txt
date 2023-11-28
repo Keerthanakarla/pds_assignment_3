@@ -1,0 +1,10 @@
+1)The highest value in the population exceeds that of the sample, and correspondingly, the population mean surpasses the sample mean.
+
+2)In the context of the 98th percentile of BMI, the population's 98th percentile outweighs that of the sample.
+
+3)When contrasting the population mean with the bootstrap mean, there exists only a marginal difference. Similarly, the disparity between the population standard deviation and the bootstrap standard deviation is minimal. Lastly, a slight variance is observed between the population percentile and the bootstrap percentile.
+
+
+
+
+
